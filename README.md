@@ -1,3 +1,4 @@
+site.jpg
 
 Full professor
 Clermont Auvergne INP - Institut Pascal
