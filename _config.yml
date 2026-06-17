@@ -6,8 +6,6 @@ description: Professional website
 
 lang: fr-FR
 
-robots: noindex, nofollow
-
 # menu 
 chapters:
  - title: Institut Pascal
