@@ -6,8 +6,6 @@ description: Professional website
 
 lang: fr-FR
 
-markdown: GFM
-
 # menu 
 chapters:
  - title: Institut Pascal
