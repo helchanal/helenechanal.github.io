@@ -1,4 +1,6 @@
-<picture> site.jpg <picture>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="site.jpg">
+</picture>
 
 Full professor
 Clermont Auvergne INP - Institut Pascal
