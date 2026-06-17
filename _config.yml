@@ -19,6 +19,5 @@ chapters:
 
 # pied de page   
 footer_col_1: <ul class="contact-list">
-  <li>Institut Pascal / Clermont Auvergne INP, Aubière</li>
-  <li>2026</li></ul>
-footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/">Lien Github</a></li></ul>
+  <li>Institut Pascal / Clermont Auvergne INP, Aubière</li> <li>2026</li></ul>
+
