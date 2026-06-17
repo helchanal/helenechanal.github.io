@@ -13,9 +13,9 @@ chapters:
  - title: CV
    url: https://CV.ch/
  - title: project
-   url: url: https://project.ch/
+   url: https://project.ch/
  - title: publications
-   url: url: https://publications.ch/
+   url: https://publications.ch/
 
 # pied de page   
 footer_col_1: <ul class="contact-list">
