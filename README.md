@@ -1,2 +1,5 @@
-# helenechanal.github.io
-site professionnel de Hélène Chanal
+# Hélène Chanal
+
+Hélène CHANAL
+Full professor
+Clermont Auvergne INP - Institut Pascal
