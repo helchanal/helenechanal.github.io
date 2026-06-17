@@ -10,12 +10,10 @@ robots: noindex, nofollow
 
 # menu 
 chapters:
- - title: CV
-   url: https://CV.ch/
- - title: project
-   url: https://project.ch/
- - title: publications
-   url: https://publications.ch/
+ - title: Institut Pascal
+   url: https://www.institutpascal.uca.fr/index.php/fr/
+ - title: SIGMA Clermont
+   url: https://www.sigma-clermont.fr/fr/index.html
 
 # pied de page   
 footer_col_1: <ul class="contact-list">
